@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.platform = :ios
   spec.ios.deployment_target = '12.0'
   spec.name         = "TimeLineKit"
-  spec.version      = "0.0.6"
+  spec.version      = "0.0.2"
   spec.summary      = "Components to facilitate creation of a time line"
 
   # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ Pod::Spec.new do |spec|
   # spec.description  = <<-DESC
   #                  DESC
 
-  spec.homepage     = "https://github.com/danielrsousa/TimeLineKit"
+  spec.homepage     = "https://github.com/iOSTDDevs/TimeLineKit"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -81,7 +81,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/danielrsousa/TimeLineKit.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/iOSTDDevs/TimeLineKit.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
